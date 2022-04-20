@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaekJoon_3181 줄임말 만들기", "BaekJoon_3181 줄임말 만들기\BaekJoon_3181 줄임말 만들기.vcxproj", "{52F4A051-305B-4032-9B60-5CD5A254E27F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F4A051-305B-4032-9B60-5CD5A254E27F}.Debug|x64.ActiveCfg = Debug|x64
+		{52F4A051-305B-4032-9B60-5CD5A254E27F}.Debug|x64.Build.0 = Debug|x64
+		{52F4A051-305B-4032-9B60-5CD5A254E27F}.Debug|x86.ActiveCfg = Debug|Win32
+		{52F4A051-305B-4032-9B60-5CD5A254E27F}.Debug|x86.Build.0 = Debug|Win32
+		{52F4A051-305B-4032-9B60-5CD5A254E27F}.Release|x64.ActiveCfg = Release|x64
+		{52F4A051-305B-4032-9B60-5CD5A254E27F}.Release|x64.Build.0 = Release|x64
+		{52F4A051-305B-4032-9B60-5CD5A254E27F}.Release|x86.ActiveCfg = Release|Win32
+		{52F4A051-305B-4032-9B60-5CD5A254E27F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C86BFB32-6D4E-439F-99B6-5060BB4D26F9}
+	EndGlobalSection
+EndGlobal
